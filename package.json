@@ -4,7 +4,7 @@
   "description": "- GitHub Action Script Add",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warning: no test specified\" && exit 1"
+    "test": "echo \"Waning: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
