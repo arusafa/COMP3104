@@ -3,4 +3,4 @@
 
 - GitHub Action Script Add
 
-[![Build Status](https://app.travis-ci.com/arusafa/COMP3104.svg?branch=master)](https://app.travis-ci.com/arusafa/COMP3104)
+[![Build Status](https://app.travis-ci.com/arusafa/COMP3104.svg?branch=main)](https://app.travis-ci.com/arusafa/COMP3104)
